@@ -1,11 +1,16 @@
 _repo: Essay-on-the-Classification-of-the-Insane_58152
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58152-h/images/cover.jpg
 creator:
   author:
     agent_name: Allen, Matthew
     gutenberg_agent_id: '49795'
     url: http://www.gutenberg.org/2009/agents/49795
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58152#Essay-on-the-Classification-of-the-Insane
 gutenberg_issued: '2018-10-22'
 gutenberg_type: Text
 identifiers:
